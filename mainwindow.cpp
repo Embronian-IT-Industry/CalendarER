@@ -29,8 +29,8 @@ MainWindow::MainWindow(QWidget *parent)
 		verticalHeader.append("2-ая неделя Неззий");
 		verticalHeader.append("1-ая неделя Витий");
 		verticalHeader.append("2-ая неделя Витий");
-		verticalHeader.append("1-ая неделя Велдий");
-		verticalHeader.append("2-ая неделя Велдий");
+        verticalHeader.append("1-ая неделя Сергий");
+        verticalHeader.append("2-ая неделя Сергий");
 		verticalHeader.append("1-ая неделя Сенсий");
 		verticalHeader.append("2-ая неделя Сенсий");
 		verticalHeader.append("1-ая неделя Шизия");
